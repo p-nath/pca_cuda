@@ -1,0 +1,5 @@
+.DS_Store
+*.out
+*.suo
+*.sln
+pca_cuda_edited.docx
